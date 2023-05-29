@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536485327381",
+    "project_id": "wsafe-fc70c",
+    "storage_bucket": "wsafe-fc70c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536485327381:android:3c57d51640d4cea013141c",
+        "android_client_info": {
+          "package_name": "com.womensafe.wsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc99YnCVJUjFQFyJxP3kSX3-Y-LJ6K1E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
