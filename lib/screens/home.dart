@@ -29,7 +29,6 @@ class _HomeState extends State<Home> {
         backgroundColor: Colors.redAccent.shade700,
         activeColor: Colors.white,
         selectedIndex: navindex,
-    
         onButtonPressed: (index) => setState(() {
           navindex = index;
         }),

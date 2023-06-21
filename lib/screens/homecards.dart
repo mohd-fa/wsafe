@@ -285,10 +285,8 @@ class _SosButtonState extends State<SosButton> {
     return Card(
       elevation: 5,
       margin: const EdgeInsets.all(0),
-      color: Colors.red[100],
       shape: const RoundedRectangleBorder(
           borderRadius: BorderRadius.all(Radius.circular(20))),
-      clipBehavior: Clip.antiAliasWithSaveLayer,
       child: Stack(children: [
         Container(
             padding: EdgeInsets.only(
